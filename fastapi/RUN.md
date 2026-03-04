@@ -1,0 +1,4 @@
+$ uvicorn main:app --reload
+
+Swagger
+http://localhost:8000/docs
